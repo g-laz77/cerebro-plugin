@@ -1,7 +1,7 @@
 {
-  "name": "cerebro-pl",
+  "name": "Mail-Plugin",
   "version": "0.0.2",
-  "description": "",
+  "description": "A plugin to look for the mail in OS-X.",
   "license": "MIT",
   "repository": "KELiON/cerebro-plugin",
   "author": {
